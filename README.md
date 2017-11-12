@@ -1,2 +1,2 @@
 # undrAlgo
-My solutions to problems on [AlgoTester](https://algotester.com)
+My solutions for problems on [AlgoTester](https://algotester.com)
