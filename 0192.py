@@ -2,7 +2,9 @@ import sys
 
 data = input().split()
 x, y = map(int, data)
-ls = []
+ls = {}
+ls[x] = {}
+ls[x][y] = 1
 
 s = list(input())
 
@@ -16,10 +18,13 @@ for i in range(0, len(s)):
         y += 1
     else:
         y -= 1
-    if (x, y) in ls:
+    if ls.get(x) is None:
+        ls[x] = {}
+    if ls.get(x).get(y) is None:
+        ls[x][y] = 1
+    else:
         print("Fail")
         print(i + 1)
         sys.exit()
-    ls.append((x, y))
 
 print("Success")
