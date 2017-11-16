@@ -8,6 +8,7 @@ My solutions for problems on [AlgoTester](http://algotester.com)
 - [Марічка і печиво | #0011](http://algotester.com/en/ArchiveProblem/Display/2)
 - [Петрик і змійка | #0192](http://algotester.com/en/ArchiveProblem/Display/20079)
 - [Депутатські гроші | #0021](http://algotester.com/en/ArchiveProblem/Display/6)
+- [Цікаве листування | #0151](http://algotester.com/en/ArchiveProblem/Display/20057)
 
 ## Wrong Answer
 - [Борщ, картопля і салат | #0012](http://algotester.com/en/ArchiveProblem/Display/3)
