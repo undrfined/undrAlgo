@@ -14,6 +14,7 @@ My solutions for problems on [AlgoTester](http://algotester.com)
 - [Борщ, картопля і салат | #0012](http://algotester.com/en/ArchiveProblem/Display/3)
 - [Торт для Петрика | #0191](http://algotester.com/en/ArchiveProblem/Display/20078)
 - [Коля, Вася і лабіринт | #0032](http://algotester.com/en/ArchiveProblem/Display/14)
+- [Марічка і смачні цукерки | #0361](http://algotester.com/en/ArchiveProblem/Display/173361)
 
 ## Time Limit
 - [Петрик і стрічка | #0193](http://algotester.com/en/ArchiveProblem/Display/20080)
