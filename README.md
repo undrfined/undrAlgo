@@ -9,8 +9,9 @@ My solutions for problems on [AlgoTester](http://algotester.com)
 - [Петрик і змійка | #0192](http://algotester.com/en/ArchiveProblem/Display/20079)
 - [Депутатські гроші | #0021](http://algotester.com/en/ArchiveProblem/Display/6)
 - [Цікаве листування | #0151](http://algotester.com/en/ArchiveProblem/Display/20057)
-- [Існує дві дороги: Одна пряма, а інша...| #0171](http://algotester.com/en/ArchiveProblem/Display/20070)
-- [День програміста| #0211](http://algotester.com/en/ArchiveProblem/Display/20089)
+- [Існує дві дороги: Одна пряма, а інша... | #0171](http://algotester.com/en/ArchiveProblem/Display/20070)
+- [День програміста | #0211](http://algotester.com/en/ArchiveProblem/Display/20089)
+- [Всеукраїнська олімпіада | #0071](http://algotester.com/en/ArchiveProblem/Display/29)
 
 ## Wrong Answer
 - [Борщ, картопля і салат | #0012](http://algotester.com/en/ArchiveProblem/Display/3)
